@@ -1,20 +1,16 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the fan made _`Modd.io <https://www.modd.io/>`_ documation!
+======================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. note::
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+   I am **not** the owner of Modd.io. This documation is **fan made.**
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
+Table o' Contents:
+------------------
 
 .. toctree::
 
